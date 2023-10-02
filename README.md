@@ -23,7 +23,7 @@ N/A
 
 Simply click on the deployed link to visit the site.
 
-Deployable Link --> [ Weather-Dashboard](https://vinlandmoon.github.io/Work-Day-Scheduler/)
+Deployable Link --> [ Weather-Dashboard](https://vinlandmoon.github.io/Weather-Dashboard/)
 
 ## Credits
 
