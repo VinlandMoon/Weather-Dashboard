@@ -2,6 +2,7 @@
 
 
 ## Description
+A web application enabling users to search cities, access current weather and 5-day forecast, and save recently searched locations locally.
 
 
 
@@ -22,7 +23,7 @@ N/A
 
 Simply click on the deployed link to visit the site.
 
-Deployable Link --> [Work day Scheduler](https://vinlandmoon.github.io/Work-Day-Scheduler/)
+Deployable Link --> [ Weather-Dashboard](https://vinlandmoon.github.io/Work-Day-Scheduler/)
 
 ## Credits
 
